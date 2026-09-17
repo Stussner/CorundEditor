@@ -1,0 +1,3291 @@
+_oxydwelt ow{
+ _oxydsteinoxyd oso0{
+  _oxydstein os{
+   _netz n{
+    _polygon p0{
+     0.;-1.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     5.5;0.;6.5,
+     0.70710678118654746;0.;-0.70710678118654746,
+     -0.70710678118654757;0.;-0.70710678118654757,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oso0::os::n::v0
+    }
+    _polygon p1{
+     0.;1.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     5.5;1.;6.5,
+     -0.70710678118654746;0.;0.70710678118654746,
+     -0.70710678118654757;0.;-0.70710678118654757,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oso0::os::n::v4
+    }
+    _polygon p2{
+     -1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     5.;0.5;6.5,
+     0.;-0.70710678118654746;0.70710678118654746,
+     0.;-0.70710678118654757;-0.70710678118654757,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oso0::os::n::v0
+    }
+    _polygon p3{
+     1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     6.;0.5;6.5,
+     0.;0.70710678118654746;-0.70710678118654746,
+     0.;-0.70710678118654757;-0.70710678118654757,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oso0::os::n::v3
+    }
+    _polygon p4{
+     0.;0.;-1.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     5.5;0.5;6.,
+     -0.70710678118654746;0.70710678118654746;0.,
+     -0.70710678118654757;-0.70710678118654757;0.,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oso0::os::n::v0
+    }
+    _polygon p5{
+     0.;0.;1.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     5.5;0.5;7.,
+     0.70710678118654746;-0.70710678118654746;0.,
+     -0.70710678118654757;-0.70710678118654757;0.,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oso0::os::n::v1
+    }
+    _vertex v0{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso0::os::n::v1::c2,ow::oso0::os::n::v1,ow::oso0::os::n::p0,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso0::os::n::v3::c0,ow::oso0::os::n::v3,ow::oso0::os::n::p4,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso0::os::n::v4::c1,ow::oso0::os::n::v4,ow::oso0::os::n::p2,1,0.;0.,0,1,0.;0.,0,0,0}
+     5.;0.;6.,
+     0
+    }
+    _vertex v1{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso0::os::n::v2::c2,ow::oso0::os::n::v2,ow::oso0::os::n::p0,1,0.;1.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso0::os::n::v7::c2,ow::oso0::os::n::v7,ow::oso0::os::n::p5,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso0::os::n::v0::c0,ow::oso0::os::n::v0,ow::oso0::os::n::p2,1,1.;0.,0,1,0.;1.,0,0,0}
+     5.;0.;7.,
+     0
+    }
+    _vertex v2{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso0::os::n::v3::c2,ow::oso0::os::n::v3,ow::oso0::os::n::p0,1,1.;1.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso0::os::n::v6::c2,ow::oso0::os::n::v6,ow::oso0::os::n::p3,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso0::os::n::v1::c0,ow::oso0::os::n::v1,ow::oso0::os::n::p5,1,1.;0.,0,1,0.;1.,0,0,0}
+     6.;0.;7.,
+     0
+    }
+    _vertex v3{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso0::os::n::v0::c1,ow::oso0::os::n::v0,ow::oso0::os::n::p0,1,1.;0.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso0::os::n::v5::c2,ow::oso0::os::n::v5,ow::oso0::os::n::p4,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso0::os::n::v2::c0,ow::oso0::os::n::v2,ow::oso0::os::n::p3,1,0.;0.,0,1,0.;0.,0,0,0}
+     6.;0.;6.,
+     0
+    }
+    _vertex v4{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso0::os::n::v5::c1,ow::oso0::os::n::v5,ow::oso0::os::n::p1,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso0::os::n::v0::c2,ow::oso0::os::n::v0,ow::oso0::os::n::p4,1,0.;1.,0,1,0.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso0::os::n::v7::c0,ow::oso0::os::n::v7,ow::oso0::os::n::p2,1,0.;1.,0,1,1.;0.,0,0,0}
+     5.;1.;6.,
+     0
+    }
+    _vertex v5{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso0::os::n::v6::c1,ow::oso0::os::n::v6,ow::oso0::os::n::p1,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso0::os::n::v4::c0,ow::oso0::os::n::v4,ow::oso0::os::n::p4,1,1.;1.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso0::os::n::v3::c1,ow::oso0::os::n::v3,ow::oso0::os::n::p3,1,0.;1.,0,1,0.;1.,0,0,0}
+     6.;1.;6.,
+     0
+    }
+    _vertex v6{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso0::os::n::v7::c1,ow::oso0::os::n::v7,ow::oso0::os::n::p1,1,1.;1.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso0::os::n::v5::c0,ow::oso0::os::n::v5,ow::oso0::os::n::p3,1,1.;1.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso0::os::n::v2::c1,ow::oso0::os::n::v2,ow::oso0::os::n::p5,1,1.;1.,0,1,1.;1.,0,0,0}
+     6.;1.;7.,
+     0
+    }
+    _vertex v7{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso0::os::n::v4::c2,ow::oso0::os::n::v4,ow::oso0::os::n::p1,1,0.;1.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso0::os::n::v6::c0,ow::oso0::os::n::v6,ow::oso0::os::n::p5,1,0.;1.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso0::os::n::v1::c1,ow::oso0::os::n::v1,ow::oso0::os::n::p2,1,1.;1.,0,1,1.;1.,0,0,0}
+     5.;1.;7.,
+     0
+    }
+    false,
+    0,
+    true,
+    true,
+    150.,
+    1.5440000295639038,
+    1.
+   }
+   0.;0.;0.,
+   1.;1.;1.,
+   0,
+   0,
+   false
+  }
+  0,
+  0
+ }
+ _oxydsteinoxyd oso1{
+  _oxydstein os{
+   _netz n{
+    _polygon p0{
+     0.;-1.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     2.5;0.;10.5,
+     0.70710678118654746;0.;-0.70710678118654746,
+     -0.70710678118654757;0.;-0.70710678118654757,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oso1::os::n::v0
+    }
+    _polygon p1{
+     0.;1.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     2.5;1.;10.5,
+     -0.70710678118654746;0.;0.70710678118654746,
+     -0.70710678118654757;0.;-0.70710678118654757,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oso1::os::n::v4
+    }
+    _polygon p2{
+     -1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     2.;0.5;10.5,
+     0.;-0.70710678118654746;0.70710678118654746,
+     0.;-0.70710678118654757;-0.70710678118654757,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oso1::os::n::v0
+    }
+    _polygon p3{
+     1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     3.;0.5;10.5,
+     0.;0.70710678118654746;-0.70710678118654746,
+     0.;-0.70710678118654757;-0.70710678118654757,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oso1::os::n::v3
+    }
+    _polygon p4{
+     0.;0.;-1.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     2.5;0.5;10.,
+     -0.70710678118654746;0.70710678118654746;0.,
+     -0.70710678118654757;-0.70710678118654757;0.,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oso1::os::n::v0
+    }
+    _polygon p5{
+     0.;0.;1.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     2.5;0.5;11.,
+     0.70710678118654746;-0.70710678118654746;0.,
+     -0.70710678118654757;-0.70710678118654757;0.,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oso1::os::n::v1
+    }
+    _vertex v0{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso1::os::n::v1::c2,ow::oso1::os::n::v1,ow::oso1::os::n::p0,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso1::os::n::v3::c0,ow::oso1::os::n::v3,ow::oso1::os::n::p4,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso1::os::n::v4::c1,ow::oso1::os::n::v4,ow::oso1::os::n::p2,1,0.;0.,0,1,0.;0.,0,0,0}
+     2.;0.;10.,
+     0
+    }
+    _vertex v1{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso1::os::n::v2::c2,ow::oso1::os::n::v2,ow::oso1::os::n::p0,1,0.;1.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso1::os::n::v7::c2,ow::oso1::os::n::v7,ow::oso1::os::n::p5,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso1::os::n::v0::c0,ow::oso1::os::n::v0,ow::oso1::os::n::p2,1,1.;0.,0,1,0.;1.,0,0,0}
+     2.;0.;11.,
+     0
+    }
+    _vertex v2{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso1::os::n::v3::c2,ow::oso1::os::n::v3,ow::oso1::os::n::p0,1,1.;1.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso1::os::n::v6::c2,ow::oso1::os::n::v6,ow::oso1::os::n::p3,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso1::os::n::v1::c0,ow::oso1::os::n::v1,ow::oso1::os::n::p5,1,1.;0.,0,1,0.;1.,0,0,0}
+     3.;0.;11.,
+     0
+    }
+    _vertex v3{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso1::os::n::v0::c1,ow::oso1::os::n::v0,ow::oso1::os::n::p0,1,1.;0.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso1::os::n::v5::c2,ow::oso1::os::n::v5,ow::oso1::os::n::p4,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso1::os::n::v2::c0,ow::oso1::os::n::v2,ow::oso1::os::n::p3,1,0.;0.,0,1,0.;0.,0,0,0}
+     3.;0.;10.,
+     0
+    }
+    _vertex v4{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso1::os::n::v5::c1,ow::oso1::os::n::v5,ow::oso1::os::n::p1,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso1::os::n::v0::c2,ow::oso1::os::n::v0,ow::oso1::os::n::p4,1,0.;1.,0,1,0.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso1::os::n::v7::c0,ow::oso1::os::n::v7,ow::oso1::os::n::p2,1,0.;1.,0,1,1.;0.,0,0,0}
+     2.;1.;10.,
+     0
+    }
+    _vertex v5{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso1::os::n::v6::c1,ow::oso1::os::n::v6,ow::oso1::os::n::p1,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso1::os::n::v4::c0,ow::oso1::os::n::v4,ow::oso1::os::n::p4,1,1.;1.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso1::os::n::v3::c1,ow::oso1::os::n::v3,ow::oso1::os::n::p3,1,0.;1.,0,1,0.;1.,0,0,0}
+     3.;1.;10.,
+     0
+    }
+    _vertex v6{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso1::os::n::v7::c1,ow::oso1::os::n::v7,ow::oso1::os::n::p1,1,1.;1.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso1::os::n::v5::c0,ow::oso1::os::n::v5,ow::oso1::os::n::p3,1,1.;1.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso1::os::n::v2::c1,ow::oso1::os::n::v2,ow::oso1::os::n::p5,1,1.;1.,0,1,1.;1.,0,0,0}
+     3.;1.;11.,
+     0
+    }
+    _vertex v7{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oso1::os::n::v4::c2,ow::oso1::os::n::v4,ow::oso1::os::n::p1,1,0.;1.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oso1::os::n::v6::c0,ow::oso1::os::n::v6,ow::oso1::os::n::p5,1,0.;1.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oso1::os::n::v1::c1,ow::oso1::os::n::v1,ow::oso1::os::n::p2,1,1.;1.,0,1,1.;1.,0,0,0}
+     2.;1.;11.,
+     0
+    }
+    false,
+    0,
+    true,
+    true,
+    150.,
+    1.5440000295639038,
+    1.
+   }
+   0.;0.;0.,
+   1.;1.;1.,
+   0,
+   0,
+   false
+  }
+  0,
+  0
+ }
+ _oxydsteinschieb osschieb0{
+  _oxydstein os{
+   _netz n{
+    _polygon p0{
+     0.;-1.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     15.5;0.;20.5,
+     0.11043152607484653;0.;-0.99388373467361879,
+     -0.99388373467361901;0.;-0.11043152607484656,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::osschieb0::os::n::v0
+    }
+    _polygon p1{
+     0.;0.99999999999999989;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     15.5;10.;20.5,
+     -0.11043152607484653;0.;0.99388373467361879,
+     -0.9938837346736189;0.;-0.11043152607484655,
+     -0.99999999999999978,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     false,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::osschieb0::os::n::v4
+    }
+    _polygon p2{
+     -1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     15.;5.;20.5,
+     0.;-0.74329414624716639;0.66896473162244974,
+     0.;-0.66896473162244974;-0.74329414624716639,
+     -1.0000000000000002,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     false,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::osschieb0::os::n::v0
+    }
+    _polygon p3{
+     1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     16.;5.;20.5,
+     0.;0.74329414624716639;-0.66896473162244974,
+     0.;-0.66896473162244974;-0.74329414624716639,
+     -1.0000000000000002,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::osschieb0::os::n::v3
+    }
+    _polygon p4{
+     0.;0.;-0.99999999999999989,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     15.5;5.;16.,
+     -9.9503719020998915e-002;0.99503719020998915;0.,
+     -0.99503719020998926;-9.9503719020998929e-002;0.,
+     -0.99999999999999989,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     false,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::osschieb0::os::n::v0
+    }
+    _polygon p5{
+     0.;0.;1.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     15.5;5.;25.,
+     9.9503719020998915e-002;-0.99503719020998915;0.,
+     -0.99503719020998915;-9.9503719020998915e-002;0.,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     false,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::osschieb0::os::n::v1
+    }
+    _vertex v0{
+     _verbinder c0{0,0.;0.;0.;1.,ow::osschieb0::os::n::v1::c2,ow::osschieb0::os::n::v1,ow::osschieb0::os::n::p0,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::osschieb0::os::n::v3::c0,ow::osschieb0::os::n::v3,ow::osschieb0::os::n::p4,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::osschieb0::os::n::v4::c1,ow::osschieb0::os::n::v4,ow::osschieb0::os::n::p2,1,0.;0.,0,1,0.;0.,0,0,0}
+     15.;0.;16.,
+     0
+    }
+    _vertex v1{
+     _verbinder c0{0,0.;0.;0.;1.,ow::osschieb0::os::n::v2::c2,ow::osschieb0::os::n::v2,ow::osschieb0::os::n::p0,1,0.;9.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::osschieb0::os::n::v7::c2,ow::osschieb0::os::n::v7,ow::osschieb0::os::n::p5,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::osschieb0::os::n::v0::c0,ow::osschieb0::os::n::v0,ow::osschieb0::os::n::p2,1,9.;0.,0,1,0.;1.,0,0,0}
+     15.;0.;25.,
+     0
+    }
+    _vertex v2{
+     _verbinder c0{0,0.;0.;0.;1.,ow::osschieb0::os::n::v3::c2,ow::osschieb0::os::n::v3,ow::osschieb0::os::n::p0,1,1.;9.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::osschieb0::os::n::v6::c2,ow::osschieb0::os::n::v6,ow::osschieb0::os::n::p3,1,9.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::osschieb0::os::n::v1::c0,ow::osschieb0::os::n::v1,ow::osschieb0::os::n::p5,1,1.;0.,0,1,0.;1.,0,0,0}
+     16.;0.;25.,
+     0
+    }
+    _vertex v3{
+     _verbinder c0{0,0.;0.;0.;1.,ow::osschieb0::os::n::v0::c1,ow::osschieb0::os::n::v0,ow::osschieb0::os::n::p0,1,1.;0.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::osschieb0::os::n::v5::c2,ow::osschieb0::os::n::v5,ow::osschieb0::os::n::p4,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::osschieb0::os::n::v2::c0,ow::osschieb0::os::n::v2,ow::osschieb0::os::n::p3,1,0.;0.,0,1,0.;0.,0,0,0}
+     16.;0.;16.,
+     0
+    }
+    _vertex v4{
+     _verbinder c0{0,0.;0.;0.;1.,ow::osschieb0::os::n::v5::c1,ow::osschieb0::os::n::v5,ow::osschieb0::os::n::p1,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::osschieb0::os::n::v0::c2,ow::osschieb0::os::n::v0,ow::osschieb0::os::n::p4,1,0.;10.,0,1,0.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::osschieb0::os::n::v7::c0,ow::osschieb0::os::n::v7,ow::osschieb0::os::n::p2,1,0.;10.,0,1,1.;0.,0,0,0}
+     15.;10.;16.,
+     0
+    }
+    _vertex v5{
+     _verbinder c0{0,0.;0.;0.;1.,ow::osschieb0::os::n::v6::c1,ow::osschieb0::os::n::v6,ow::osschieb0::os::n::p1,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::osschieb0::os::n::v4::c0,ow::osschieb0::os::n::v4,ow::osschieb0::os::n::p4,1,1.;10.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::osschieb0::os::n::v3::c1,ow::osschieb0::os::n::v3,ow::osschieb0::os::n::p3,1,0.;10.,0,1,0.;1.,0,0,0}
+     16.;10.;16.,
+     0
+    }
+    _vertex v6{
+     _verbinder c0{0,0.;0.;0.;1.,ow::osschieb0::os::n::v7::c1,ow::osschieb0::os::n::v7,ow::osschieb0::os::n::p1,1,1.;9.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::osschieb0::os::n::v5::c0,ow::osschieb0::os::n::v5,ow::osschieb0::os::n::p3,1,9.;10.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::osschieb0::os::n::v2::c1,ow::osschieb0::os::n::v2,ow::osschieb0::os::n::p5,1,1.;10.,0,1,1.;1.,0,0,0}
+     16.;10.;25.,
+     0
+    }
+    _vertex v7{
+     _verbinder c0{0,0.;0.;0.;1.,ow::osschieb0::os::n::v4::c2,ow::osschieb0::os::n::v4,ow::osschieb0::os::n::p1,1,0.;9.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::osschieb0::os::n::v6::c0,ow::osschieb0::os::n::v6,ow::osschieb0::os::n::p5,1,0.;10.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::osschieb0::os::n::v1::c1,ow::osschieb0::os::n::v1,ow::osschieb0::os::n::p2,1,9.;10.,0,1,1.;1.,0,0,0}
+     15.;10.;25.,
+     0
+    }
+    false,
+    0,
+    true,
+    true,
+    150.,
+    1.5440000295639038,
+    1.
+   }
+   0.;0.;0.,
+   1.;1.;1.,
+   0,
+   0,
+   false
+  }
+  0.10000000000000001
+ }
+ _oxydsteinerdung oserdung0{
+  _oxydstein os{
+   _netz n{
+    _polygon p0{
+     0.;-1.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     8.5;0.;4.5,
+     0.11043152607484653;0.;-0.99388373467361879,
+     -0.99388373467361901;0.;-0.11043152607484656,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oserdung0::os::n::v0
+    }
+    _polygon p1{
+     0.;0.99999999999999989;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     8.5;5.;4.5,
+     -0.11043152607484653;0.;0.99388373467361879,
+     -0.9938837346736189;0.;-0.11043152607484655,
+     -0.99999999999999978,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oserdung0::os::n::v4
+    }
+    _polygon p2{
+     -1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     8.;2.5;4.5,
+     0.;-0.48564293117863205;0.87415727612153771,
+     0.;-0.87415727612153793;-0.48564293117863216,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oserdung0::os::n::v0
+    }
+    _polygon p3{
+     1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     9.;2.5;4.5,
+     0.;0.48564293117863205;-0.87415727612153771,
+     0.;-0.87415727612153793;-0.48564293117863216,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oserdung0::os::n::v3
+    }
+    _polygon p4{
+     0.;0.;-0.99999999999999989,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     8.5;2.5;0.,
+     -0.19611613513818404;0.98058067569092022;0.,
+     -0.98058067569092033;-0.19611613513818407;0.,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oserdung0::os::n::v0
+    }
+    _polygon p5{
+     0.;0.;1.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     8.5;2.5;9.,
+     0.19611613513818404;-0.98058067569092022;0.,
+     -0.98058067569092022;-0.19611613513818404;0.,
+     -1.0000000000000002,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oserdung0::os::n::v1
+    }
+    _vertex v0{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oserdung0::os::n::v1::c2,ow::oserdung0::os::n::v1,ow::oserdung0::os::n::p0,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oserdung0::os::n::v3::c0,ow::oserdung0::os::n::v3,ow::oserdung0::os::n::p4,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oserdung0::os::n::v4::c1,ow::oserdung0::os::n::v4,ow::oserdung0::os::n::p2,1,0.;0.,0,1,0.;0.,0,0,0}
+     8.;0.;0.,
+     0
+    }
+    _vertex v1{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oserdung0::os::n::v2::c2,ow::oserdung0::os::n::v2,ow::oserdung0::os::n::p0,1,0.;9.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oserdung0::os::n::v7::c2,ow::oserdung0::os::n::v7,ow::oserdung0::os::n::p5,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oserdung0::os::n::v0::c0,ow::oserdung0::os::n::v0,ow::oserdung0::os::n::p2,1,9.;0.,0,1,0.;1.,0,0,0}
+     8.;0.;9.,
+     0
+    }
+    _vertex v2{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oserdung0::os::n::v3::c2,ow::oserdung0::os::n::v3,ow::oserdung0::os::n::p0,1,1.;9.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oserdung0::os::n::v6::c2,ow::oserdung0::os::n::v6,ow::oserdung0::os::n::p3,1,9.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oserdung0::os::n::v1::c0,ow::oserdung0::os::n::v1,ow::oserdung0::os::n::p5,1,1.;0.,0,1,0.;1.,0,0,0}
+     9.;0.;9.,
+     0
+    }
+    _vertex v3{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oserdung0::os::n::v0::c1,ow::oserdung0::os::n::v0,ow::oserdung0::os::n::p0,1,1.;0.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oserdung0::os::n::v5::c2,ow::oserdung0::os::n::v5,ow::oserdung0::os::n::p4,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oserdung0::os::n::v2::c0,ow::oserdung0::os::n::v2,ow::oserdung0::os::n::p3,1,0.;0.,0,1,0.;0.,0,0,0}
+     9.;0.;0.,
+     0
+    }
+    _vertex v4{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oserdung0::os::n::v5::c1,ow::oserdung0::os::n::v5,ow::oserdung0::os::n::p1,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oserdung0::os::n::v0::c2,ow::oserdung0::os::n::v0,ow::oserdung0::os::n::p4,1,0.;5.,0,1,0.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oserdung0::os::n::v7::c0,ow::oserdung0::os::n::v7,ow::oserdung0::os::n::p2,1,0.;5.,0,1,1.;0.,0,0,0}
+     8.;5.;0.,
+     0
+    }
+    _vertex v5{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oserdung0::os::n::v6::c1,ow::oserdung0::os::n::v6,ow::oserdung0::os::n::p1,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oserdung0::os::n::v4::c0,ow::oserdung0::os::n::v4,ow::oserdung0::os::n::p4,1,1.;5.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oserdung0::os::n::v3::c1,ow::oserdung0::os::n::v3,ow::oserdung0::os::n::p3,1,0.;5.,0,1,0.;1.,0,0,0}
+     9.;5.;0.,
+     0
+    }
+    _vertex v6{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oserdung0::os::n::v7::c1,ow::oserdung0::os::n::v7,ow::oserdung0::os::n::p1,1,1.;9.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oserdung0::os::n::v5::c0,ow::oserdung0::os::n::v5,ow::oserdung0::os::n::p3,1,9.;5.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oserdung0::os::n::v2::c1,ow::oserdung0::os::n::v2,ow::oserdung0::os::n::p5,1,1.;5.,0,1,1.;1.,0,0,0}
+     9.;5.;9.,
+     0
+    }
+    _vertex v7{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oserdung0::os::n::v4::c2,ow::oserdung0::os::n::v4,ow::oserdung0::os::n::p1,1,0.;9.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oserdung0::os::n::v6::c0,ow::oserdung0::os::n::v6,ow::oserdung0::os::n::p5,1,0.;5.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oserdung0::os::n::v1::c1,ow::oserdung0::os::n::v1,ow::oserdung0::os::n::p2,1,9.;5.,0,1,1.;1.,0,0,0}
+     8.;5.;9.,
+     0
+    }
+    false,
+    0,
+    true,
+    true,
+    150.,
+    1.5440000295639038,
+    1.
+   }
+   0.;0.;0.,
+   1.;1.;1.,
+   0,
+   0,
+   false
+  }
+ }
+ _oxydsteintotenkopf ostot0{
+  _oxydstein os{
+   _netz n{
+    _polygon p0{
+     0.;-1.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     15.5;0.;4.5,
+     0.11043152607484653;0.;-0.99388373467361879,
+     -0.99388373467361901;0.;-0.11043152607484656,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::ostot0::os::n::v0
+    }
+    _polygon p1{
+     0.;0.99999999999999989;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     15.5;10.;4.5,
+     -0.11043152607484653;0.;0.99388373467361879,
+     -0.9938837346736189;0.;-0.11043152607484655,
+     -0.99999999999999978,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::ostot0::os::n::v4
+    }
+    _polygon p2{
+     -1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     15.;5.;4.5,
+     0.;-0.74329414624716639;0.66896473162244974,
+     0.;-0.66896473162244974;-0.74329414624716639,
+     -1.0000000000000002,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::ostot0::os::n::v0
+    }
+    _polygon p3{
+     1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     16.;5.;4.5,
+     0.;0.74329414624716639;-0.66896473162244974,
+     0.;-0.66896473162244974;-0.74329414624716639,
+     -1.0000000000000002,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::ostot0::os::n::v3
+    }
+    _polygon p4{
+     0.;0.;-0.99999999999999989,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     15.5;5.;0.,
+     -9.9503719020998915e-002;0.99503719020998915;0.,
+     -0.99503719020998926;-9.9503719020998929e-002;0.,
+     -0.99999999999999989,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::ostot0::os::n::v0
+    }
+    _polygon p5{
+     0.;0.;1.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     15.5;5.;9.,
+     9.9503719020998915e-002;-0.99503719020998915;0.,
+     -0.99503719020998915;-9.9503719020998915e-002;0.,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::ostot0::os::n::v1
+    }
+    _vertex v0{
+     _verbinder c0{0,0.;0.;0.;1.,ow::ostot0::os::n::v1::c2,ow::ostot0::os::n::v1,ow::ostot0::os::n::p0,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::ostot0::os::n::v3::c0,ow::ostot0::os::n::v3,ow::ostot0::os::n::p4,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::ostot0::os::n::v4::c1,ow::ostot0::os::n::v4,ow::ostot0::os::n::p2,1,0.;0.,0,1,0.;0.,0,0,0}
+     15.;0.;0.,
+     0
+    }
+    _vertex v1{
+     _verbinder c0{0,0.;0.;0.;1.,ow::ostot0::os::n::v2::c2,ow::ostot0::os::n::v2,ow::ostot0::os::n::p0,1,0.;9.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::ostot0::os::n::v7::c2,ow::ostot0::os::n::v7,ow::ostot0::os::n::p5,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::ostot0::os::n::v0::c0,ow::ostot0::os::n::v0,ow::ostot0::os::n::p2,1,9.;0.,0,1,0.;1.,0,0,0}
+     15.;0.;9.,
+     0
+    }
+    _vertex v2{
+     _verbinder c0{0,0.;0.;0.;1.,ow::ostot0::os::n::v3::c2,ow::ostot0::os::n::v3,ow::ostot0::os::n::p0,1,1.;9.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::ostot0::os::n::v6::c2,ow::ostot0::os::n::v6,ow::ostot0::os::n::p3,1,9.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::ostot0::os::n::v1::c0,ow::ostot0::os::n::v1,ow::ostot0::os::n::p5,1,1.;0.,0,1,0.;1.,0,0,0}
+     16.;0.;9.,
+     0
+    }
+    _vertex v3{
+     _verbinder c0{0,0.;0.;0.;1.,ow::ostot0::os::n::v0::c1,ow::ostot0::os::n::v0,ow::ostot0::os::n::p0,1,1.;0.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::ostot0::os::n::v5::c2,ow::ostot0::os::n::v5,ow::ostot0::os::n::p4,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::ostot0::os::n::v2::c0,ow::ostot0::os::n::v2,ow::ostot0::os::n::p3,1,0.;0.,0,1,0.;0.,0,0,0}
+     16.;0.;0.,
+     0
+    }
+    _vertex v4{
+     _verbinder c0{0,0.;0.;0.;1.,ow::ostot0::os::n::v5::c1,ow::ostot0::os::n::v5,ow::ostot0::os::n::p1,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::ostot0::os::n::v0::c2,ow::ostot0::os::n::v0,ow::ostot0::os::n::p4,1,0.;10.,0,1,0.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::ostot0::os::n::v7::c0,ow::ostot0::os::n::v7,ow::ostot0::os::n::p2,1,0.;10.,0,1,1.;0.,0,0,0}
+     15.;10.;0.,
+     0
+    }
+    _vertex v5{
+     _verbinder c0{0,0.;0.;0.;1.,ow::ostot0::os::n::v6::c1,ow::ostot0::os::n::v6,ow::ostot0::os::n::p1,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::ostot0::os::n::v4::c0,ow::ostot0::os::n::v4,ow::ostot0::os::n::p4,1,1.;10.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::ostot0::os::n::v3::c1,ow::ostot0::os::n::v3,ow::ostot0::os::n::p3,1,0.;10.,0,1,0.;1.,0,0,0}
+     16.;10.;0.,
+     0
+    }
+    _vertex v6{
+     _verbinder c0{0,0.;0.;0.;1.,ow::ostot0::os::n::v7::c1,ow::ostot0::os::n::v7,ow::ostot0::os::n::p1,1,1.;9.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::ostot0::os::n::v5::c0,ow::ostot0::os::n::v5,ow::ostot0::os::n::p3,1,9.;10.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::ostot0::os::n::v2::c1,ow::ostot0::os::n::v2,ow::ostot0::os::n::p5,1,1.;10.,0,1,1.;1.,0,0,0}
+     16.;10.;9.,
+     0
+    }
+    _vertex v7{
+     _verbinder c0{0,0.;0.;0.;1.,ow::ostot0::os::n::v4::c2,ow::ostot0::os::n::v4,ow::ostot0::os::n::p1,1,0.;9.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::ostot0::os::n::v6::c0,ow::ostot0::os::n::v6,ow::ostot0::os::n::p5,1,0.;10.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::ostot0::os::n::v1::c1,ow::ostot0::os::n::v1,ow::ostot0::os::n::p2,1,9.;10.,0,1,1.;1.,0,0,0}
+     15.;10.;9.,
+     0
+    }
+    false,
+    0,
+    true,
+    true,
+    150.,
+    1.5440000295639038,
+    1.
+   }
+   0.;0.;0.,
+   1.;1.;1.,
+   0,
+   0,
+   false
+  }
+  1.
+ }
+ _oxydsteinkugelgen oskugelgen0{
+  _oxydstein os{
+   _netz n{
+    _polygon p0{
+     0.;-0.99999999999999989;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     5.;0.;14.5,
+     0.99503719020998915;0.;-9.9503719020998915e-002,
+     -9.9503719020998929e-002;0.;-0.99503719020998926,
+     -0.99999999999999989,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oskugelgen0::os::n::v0
+    }
+    _polygon p1{
+     0.;1.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     5.;1.;14.5,
+     -0.99503719020998915;0.;9.9503719020998915e-002,
+     -9.9503719020998915e-002;0.;-0.99503719020998915,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oskugelgen0::os::n::v4
+    }
+    _polygon p2{
+     -1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     0.;0.5;14.5,
+     0.;-0.70710678118654746;0.70710678118654746,
+     0.;-0.70710678118654757;-0.70710678118654757,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oskugelgen0::os::n::v0
+    }
+    _polygon p3{
+     1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     10.;0.5;14.5,
+     0.;0.70710678118654746;-0.70710678118654746,
+     0.;-0.70710678118654757;-0.70710678118654757,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oskugelgen0::os::n::v3
+    }
+    _polygon p4{
+     0.;0.;-1.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     5.;0.5;14.,
+     -0.99503719020998915;9.9503719020998915e-002;0.,
+     -9.9503719020998915e-002;-0.99503719020998915;0.,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oskugelgen0::os::n::v0
+    }
+    _polygon p5{
+     0.;0.;0.99999999999999989,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     5.;0.5;15.,
+     0.99503719020998915;-9.9503719020998915e-002;0.,
+     -9.9503719020998929e-002;-0.99503719020998926;0.,
+     -0.99999999999999989,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oskugelgen0::os::n::v1
+    }
+    _vertex v0{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v1::c2,ow::oskugelgen0::os::n::v1,ow::oskugelgen0::os::n::p0,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v3::c0,ow::oskugelgen0::os::n::v3,ow::oskugelgen0::os::n::p4,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v4::c1,ow::oskugelgen0::os::n::v4,ow::oskugelgen0::os::n::p2,1,0.;0.,0,1,0.;0.,0,0,0}
+     0.;0.;14.,
+     0
+    }
+    _vertex v1{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v2::c2,ow::oskugelgen0::os::n::v2,ow::oskugelgen0::os::n::p0,1,0.;1.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v7::c2,ow::oskugelgen0::os::n::v7,ow::oskugelgen0::os::n::p5,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v0::c0,ow::oskugelgen0::os::n::v0,ow::oskugelgen0::os::n::p2,1,1.;0.,0,1,0.;1.,0,0,0}
+     0.;0.;15.,
+     0
+    }
+    _vertex v2{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v3::c2,ow::oskugelgen0::os::n::v3,ow::oskugelgen0::os::n::p0,1,10.;1.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v6::c2,ow::oskugelgen0::os::n::v6,ow::oskugelgen0::os::n::p3,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v1::c0,ow::oskugelgen0::os::n::v1,ow::oskugelgen0::os::n::p5,1,10.;0.,0,1,0.;1.,0,0,0}
+     10.;0.;15.,
+     0
+    }
+    _vertex v3{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v0::c1,ow::oskugelgen0::os::n::v0,ow::oskugelgen0::os::n::p0,1,10.;0.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v5::c2,ow::oskugelgen0::os::n::v5,ow::oskugelgen0::os::n::p4,1,10.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v2::c0,ow::oskugelgen0::os::n::v2,ow::oskugelgen0::os::n::p3,1,0.;0.,0,1,0.;0.,0,0,0}
+     10.;0.;14.,
+     0
+    }
+    _vertex v4{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v5::c1,ow::oskugelgen0::os::n::v5,ow::oskugelgen0::os::n::p1,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v0::c2,ow::oskugelgen0::os::n::v0,ow::oskugelgen0::os::n::p4,1,0.;1.,0,1,0.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v7::c0,ow::oskugelgen0::os::n::v7,ow::oskugelgen0::os::n::p2,1,0.;1.,0,1,1.;0.,0,0,0}
+     0.;1.;14.,
+     0
+    }
+    _vertex v5{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v6::c1,ow::oskugelgen0::os::n::v6,ow::oskugelgen0::os::n::p1,1,10.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v4::c0,ow::oskugelgen0::os::n::v4,ow::oskugelgen0::os::n::p4,1,10.;1.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v3::c1,ow::oskugelgen0::os::n::v3,ow::oskugelgen0::os::n::p3,1,0.;1.,0,1,0.;1.,0,0,0}
+     10.;1.;14.,
+     0
+    }
+    _vertex v6{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v7::c1,ow::oskugelgen0::os::n::v7,ow::oskugelgen0::os::n::p1,1,10.;1.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v5::c0,ow::oskugelgen0::os::n::v5,ow::oskugelgen0::os::n::p3,1,1.;1.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v2::c1,ow::oskugelgen0::os::n::v2,ow::oskugelgen0::os::n::p5,1,10.;1.,0,1,1.;1.,0,0,0}
+     10.;1.;15.,
+     0
+    }
+    _vertex v7{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v4::c2,ow::oskugelgen0::os::n::v4,ow::oskugelgen0::os::n::p1,1,0.;1.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v6::c0,ow::oskugelgen0::os::n::v6,ow::oskugelgen0::os::n::p5,1,0.;1.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen0::os::n::v1::c1,ow::oskugelgen0::os::n::v1,ow::oskugelgen0::os::n::p2,1,1.;1.,0,1,1.;1.,0,0,0}
+     0.;1.;15.,
+     0
+    }
+    false,
+    0,
+    true,
+    true,
+    150.,
+    1.5440000295639038,
+    1.
+   }
+   0.;0.;0.,
+   1.;1.;1.,
+   0,
+   0,
+   false
+  }
+  0.20000000000000001,
+  0.,
+  0.,
+  false,
+  false,
+  false,
+  false,
+  5,
+  0,
+  500,
+  1.;1.;1.;1.,
+  0.;1.;0.,
+  0.;0.;0.
+ }
+ _oxydsteinkugelgen oskugelgen1{
+  _oxydstein os{
+   _netz n{
+    _polygon p0{
+     0.;-1.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     0.5;0.;4.5,
+     0.11043152607484653;0.;-0.99388373467361879,
+     -0.99388373467361901;0.;-0.11043152607484656,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     1.;0.;0.;1.,
+     1,
+     ow::oskugelgen1::os::n::v0
+    }
+    _polygon p1{
+     0.;0.99999999999999989;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     0.5;5.;4.5,
+     -0.11043152607484653;0.;0.99388373467361879,
+     -0.9938837346736189;0.;-0.11043152607484655,
+     -0.99999999999999978,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     1.;0.;0.;1.,
+     1,
+     ow::oskugelgen1::os::n::v4
+    }
+    _polygon p2{
+     -1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     0.;2.5;4.5,
+     0.;-0.48564293117863205;0.87415727612153771,
+     0.;-0.87415727612153793;-0.48564293117863216,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     1.;0.;0.;1.,
+     1,
+     ow::oskugelgen1::os::n::v0
+    }
+    _polygon p3{
+     1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     1.;2.5;4.5,
+     0.;0.48564293117863205;-0.87415727612153771,
+     0.;-0.87415727612153793;-0.48564293117863216,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     1.;0.;0.;1.,
+     1,
+     ow::oskugelgen1::os::n::v3
+    }
+    _polygon p4{
+     0.;0.;-0.99999999999999989,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     0.5;2.5;0.,
+     -0.19611613513818404;0.98058067569092022;0.,
+     -0.98058067569092033;-0.19611613513818407;0.,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     1.;0.;0.;1.,
+     1,
+     ow::oskugelgen1::os::n::v0
+    }
+    _polygon p5{
+     0.;0.;1.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     0.5;2.5;9.,
+     0.19611613513818404;-0.98058067569092022;0.,
+     -0.98058067569092022;-0.19611613513818404;0.,
+     -1.0000000000000002,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     1.;0.;0.;1.,
+     1,
+     ow::oskugelgen1::os::n::v1
+    }
+    _vertex v0{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v1::c2,ow::oskugelgen1::os::n::v1,ow::oskugelgen1::os::n::p0,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v3::c0,ow::oskugelgen1::os::n::v3,ow::oskugelgen1::os::n::p4,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v4::c1,ow::oskugelgen1::os::n::v4,ow::oskugelgen1::os::n::p2,1,0.;0.,0,1,0.;0.,0,0,0}
+     0.;0.;0.,
+     0
+    }
+    _vertex v1{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v2::c2,ow::oskugelgen1::os::n::v2,ow::oskugelgen1::os::n::p0,1,0.;9.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v7::c2,ow::oskugelgen1::os::n::v7,ow::oskugelgen1::os::n::p5,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v0::c0,ow::oskugelgen1::os::n::v0,ow::oskugelgen1::os::n::p2,1,9.;0.,0,1,0.;1.,0,0,0}
+     0.;0.;9.,
+     0
+    }
+    _vertex v2{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v3::c2,ow::oskugelgen1::os::n::v3,ow::oskugelgen1::os::n::p0,1,1.;9.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v6::c2,ow::oskugelgen1::os::n::v6,ow::oskugelgen1::os::n::p3,1,9.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v1::c0,ow::oskugelgen1::os::n::v1,ow::oskugelgen1::os::n::p5,1,1.;0.,0,1,0.;1.,0,0,0}
+     1.;0.;9.,
+     0
+    }
+    _vertex v3{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v0::c1,ow::oskugelgen1::os::n::v0,ow::oskugelgen1::os::n::p0,1,1.;0.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v5::c2,ow::oskugelgen1::os::n::v5,ow::oskugelgen1::os::n::p4,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v2::c0,ow::oskugelgen1::os::n::v2,ow::oskugelgen1::os::n::p3,1,0.;0.,0,1,0.;0.,0,0,0}
+     1.;0.;0.,
+     0
+    }
+    _vertex v4{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v5::c1,ow::oskugelgen1::os::n::v5,ow::oskugelgen1::os::n::p1,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v0::c2,ow::oskugelgen1::os::n::v0,ow::oskugelgen1::os::n::p4,1,0.;5.,0,1,0.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v7::c0,ow::oskugelgen1::os::n::v7,ow::oskugelgen1::os::n::p2,1,0.;5.,0,1,1.;0.,0,0,0}
+     0.;5.;0.,
+     0
+    }
+    _vertex v5{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v6::c1,ow::oskugelgen1::os::n::v6,ow::oskugelgen1::os::n::p1,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v4::c0,ow::oskugelgen1::os::n::v4,ow::oskugelgen1::os::n::p4,1,1.;5.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v3::c1,ow::oskugelgen1::os::n::v3,ow::oskugelgen1::os::n::p3,1,0.;5.,0,1,0.;1.,0,0,0}
+     1.;5.;0.,
+     0
+    }
+    _vertex v6{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v7::c1,ow::oskugelgen1::os::n::v7,ow::oskugelgen1::os::n::p1,1,1.;9.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v5::c0,ow::oskugelgen1::os::n::v5,ow::oskugelgen1::os::n::p3,1,9.;5.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v2::c1,ow::oskugelgen1::os::n::v2,ow::oskugelgen1::os::n::p5,1,1.;5.,0,1,1.;1.,0,0,0}
+     1.;5.;9.,
+     0
+    }
+    _vertex v7{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v4::c2,ow::oskugelgen1::os::n::v4,ow::oskugelgen1::os::n::p1,1,0.;9.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v6::c0,ow::oskugelgen1::os::n::v6,ow::oskugelgen1::os::n::p5,1,0.;5.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen1::os::n::v1::c1,ow::oskugelgen1::os::n::v1,ow::oskugelgen1::os::n::p2,1,9.;5.,0,1,1.;1.,0,0,0}
+     0.;5.;9.,
+     0
+    }
+    false,
+    0,
+    true,
+    true,
+    150.,
+    1.5440000295639038,
+    1.
+   }
+   0.;0.;0.,
+   1.;1.;1.,
+   0,
+   0,
+   false
+  }
+  0.20000000000000001,
+  0.,
+  0.,
+  false,
+  false,
+  false,
+  false,
+  5,
+  0,
+  500,
+  1.;1.;1.;1.,
+  0.;1.;0.,
+  0.;0.;0.
+ }
+ _oxydsteinkugelgen oskugelgen2{
+  _oxydstein os{
+   _netz n{
+    _polygon p0{
+     0.;-1.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     10.5;0.;4.5,
+     0.11043152607484653;0.;-0.99388373467361879,
+     -0.99388373467361901;0.;-0.11043152607484656,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oskugelgen2::os::n::v0
+    }
+    _polygon p1{
+     0.;0.99999999999999989;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     10.5;10.;4.5,
+     -0.11043152607484653;0.;0.99388373467361879,
+     -0.9938837346736189;0.;-0.11043152607484655,
+     -0.99999999999999978,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oskugelgen2::os::n::v4
+    }
+    _polygon p2{
+     -1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     10.;5.;4.5,
+     0.;-0.74329414624716639;0.66896473162244974,
+     0.;-0.66896473162244974;-0.74329414624716639,
+     -1.0000000000000002,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oskugelgen2::os::n::v0
+    }
+    _polygon p3{
+     1.;0.;0.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     11.;5.;4.5,
+     0.;0.74329414624716639;-0.66896473162244974,
+     0.;-0.66896473162244974;-0.74329414624716639,
+     -1.0000000000000002,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oskugelgen2::os::n::v3
+    }
+    _polygon p4{
+     0.;0.;-0.99999999999999989,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     10.5;5.;0.,
+     -9.9503719020998915e-002;0.99503719020998915;0.,
+     -0.99503719020998926;-9.9503719020998929e-002;0.,
+     -0.99999999999999989,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oskugelgen2::os::n::v0
+    }
+    _polygon p5{
+     0.;0.;1.,
+     0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+     10.5;5.;9.,
+     9.9503719020998915e-002;-0.99503719020998915;0.,
+     -0.99503719020998915;-9.9503719020998915e-002;0.,
+     -1.,
+     0,
+     "textur//oxydbodenplatte00.tga",
+     true,
+     "null",
+     true,
+     1.,
+     true,
+     true,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     false,
+     true,
+     true,
+     false,
+     false,
+     0.5,
+     0.;1.;0.;1.,
+     0,
+     ow::oskugelgen2::os::n::v1
+    }
+    _vertex v0{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v1::c2,ow::oskugelgen2::os::n::v1,ow::oskugelgen2::os::n::p0,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v3::c0,ow::oskugelgen2::os::n::v3,ow::oskugelgen2::os::n::p4,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v4::c1,ow::oskugelgen2::os::n::v4,ow::oskugelgen2::os::n::p2,1,0.;0.,0,1,0.;0.,0,0,0}
+     10.;0.;0.,
+     0
+    }
+    _vertex v1{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v2::c2,ow::oskugelgen2::os::n::v2,ow::oskugelgen2::os::n::p0,1,0.;9.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v7::c2,ow::oskugelgen2::os::n::v7,ow::oskugelgen2::os::n::p5,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v0::c0,ow::oskugelgen2::os::n::v0,ow::oskugelgen2::os::n::p2,1,9.;0.,0,1,0.;1.,0,0,0}
+     10.;0.;9.,
+     0
+    }
+    _vertex v2{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v3::c2,ow::oskugelgen2::os::n::v3,ow::oskugelgen2::os::n::p0,1,1.;9.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v6::c2,ow::oskugelgen2::os::n::v6,ow::oskugelgen2::os::n::p3,1,9.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v1::c0,ow::oskugelgen2::os::n::v1,ow::oskugelgen2::os::n::p5,1,1.;0.,0,1,0.;1.,0,0,0}
+     11.;0.;9.,
+     0
+    }
+    _vertex v3{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v0::c1,ow::oskugelgen2::os::n::v0,ow::oskugelgen2::os::n::p0,1,1.;0.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v5::c2,ow::oskugelgen2::os::n::v5,ow::oskugelgen2::os::n::p4,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v2::c0,ow::oskugelgen2::os::n::v2,ow::oskugelgen2::os::n::p3,1,0.;0.,0,1,0.;0.,0,0,0}
+     11.;0.;0.,
+     0
+    }
+    _vertex v4{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v5::c1,ow::oskugelgen2::os::n::v5,ow::oskugelgen2::os::n::p1,1,0.;0.,0,1,0.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v0::c2,ow::oskugelgen2::os::n::v0,ow::oskugelgen2::os::n::p4,1,0.;10.,0,1,0.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v7::c0,ow::oskugelgen2::os::n::v7,ow::oskugelgen2::os::n::p2,1,0.;10.,0,1,1.;0.,0,0,0}
+     10.;10.;0.,
+     0
+    }
+    _vertex v5{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v6::c1,ow::oskugelgen2::os::n::v6,ow::oskugelgen2::os::n::p1,1,1.;0.,0,1,1.;0.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v4::c0,ow::oskugelgen2::os::n::v4,ow::oskugelgen2::os::n::p4,1,1.;10.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v3::c1,ow::oskugelgen2::os::n::v3,ow::oskugelgen2::os::n::p3,1,0.;10.,0,1,0.;1.,0,0,0}
+     11.;10.;0.,
+     0
+    }
+    _vertex v6{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v7::c1,ow::oskugelgen2::os::n::v7,ow::oskugelgen2::os::n::p1,1,1.;9.,0,1,1.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v5::c0,ow::oskugelgen2::os::n::v5,ow::oskugelgen2::os::n::p3,1,9.;10.,0,1,1.;1.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v2::c1,ow::oskugelgen2::os::n::v2,ow::oskugelgen2::os::n::p5,1,1.;10.,0,1,1.;1.,0,0,0}
+     11.;10.;9.,
+     0
+    }
+    _vertex v7{
+     _verbinder c0{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v4::c2,ow::oskugelgen2::os::n::v4,ow::oskugelgen2::os::n::p1,1,0.;9.,0,1,0.;1.,0,0,0}
+     _verbinder c1{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v6::c0,ow::oskugelgen2::os::n::v6,ow::oskugelgen2::os::n::p5,1,0.;10.,0,1,1.;0.,0,0,0}
+     _verbinder c2{0,0.;0.;0.;1.,ow::oskugelgen2::os::n::v1::c1,ow::oskugelgen2::os::n::v1,ow::oskugelgen2::os::n::p2,1,9.;10.,0,1,1.;1.,0,0,0}
+     10.;10.;9.,
+     0
+    }
+    false,
+    0,
+    true,
+    true,
+    150.,
+    1.5440000295639038,
+    1.
+   }
+   0.;0.;0.,
+   1.;1.;1.,
+   0,
+   0,
+   false
+  }
+  0.20000000000000001,
+  0.,
+  0.,
+  false,
+  false,
+  false,
+  false,
+  5,
+  0,
+  500,
+  1.;1.;1.;1.,
+  0.;1.;0.,
+  0.;0.;0.
+ }
+ _oxydstein os0{
+  _netz n{
+   _polygon p0{
+    0.;-0.99999999999999989;0.,
+    0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+    13.;0.;11.5,
+    0.99503719020998915;0.;-9.9503719020998915e-002,
+    -9.9503719020998929e-002;0.;-0.99503719020998926,
+    -0.99999999999999989,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    true,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::os0::n::v0
+   }
+   _polygon p1{
+    0.;1.;0.,
+    0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+    13.;1.;11.5,
+    -0.99503719020998915;0.;9.9503719020998915e-002,
+    -9.9503719020998915e-002;0.;-0.99503719020998915,
+    -1.,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    true,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::os0::n::v4
+   }
+   _polygon p2{
+    -1.;0.;0.,
+    0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+    8.;0.5;11.5,
+    0.;-0.70710678118654746;0.70710678118654746,
+    0.;-0.70710678118654757;-0.70710678118654757,
+    -1.,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    true,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::os0::n::v0
+   }
+   _polygon p3{
+    1.;0.;0.,
+    0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+    18.;0.5;11.5,
+    0.;0.70710678118654746;-0.70710678118654746,
+    0.;-0.70710678118654757;-0.70710678118654757,
+    -1.,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    true,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::os0::n::v3
+   }
+   _polygon p4{
+    0.;0.;-1.,
+    0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+    13.;0.5;11.,
+    -0.99503719020998915;9.9503719020998915e-002;0.,
+    -9.9503719020998915e-002;-0.99503719020998915;0.,
+    -1.,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    true,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::os0::n::v0
+   }
+   _polygon p5{
+    0.;0.;0.99999999999999989,
+    0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+    13.;0.5;12.,
+    0.99503719020998915;-9.9503719020998915e-002;0.,
+    -9.9503719020998929e-002;-0.99503719020998926;0.,
+    -0.99999999999999989,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    true,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::os0::n::v1
+   }
+   _vertex v0{
+    _verbinder c0{0,0.;0.;0.;1.,ow::os0::n::v1::c2,ow::os0::n::v1,ow::os0::n::p0,1,0.;0.,0,1,0.;0.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,ow::os0::n::v3::c0,ow::os0::n::v3,ow::os0::n::p4,1,0.;0.,0,1,0.;0.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,ow::os0::n::v4::c1,ow::os0::n::v4,ow::os0::n::p2,1,0.;0.,0,1,0.;0.,0,0,0}
+    8.;0.;11.,
+    0
+   }
+   _vertex v1{
+    _verbinder c0{0,0.;0.;0.;1.,ow::os0::n::v2::c2,ow::os0::n::v2,ow::os0::n::p0,1,0.;1.,0,1,1.;0.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,ow::os0::n::v7::c2,ow::os0::n::v7,ow::os0::n::p5,1,0.;0.,0,1,0.;0.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,ow::os0::n::v0::c0,ow::os0::n::v0,ow::os0::n::p2,1,1.;0.,0,1,0.;1.,0,0,0}
+    8.;0.;12.,
+    0
+   }
+   _vertex v2{
+    _verbinder c0{0,0.;0.;0.;1.,ow::os0::n::v3::c2,ow::os0::n::v3,ow::os0::n::p0,1,10.;1.,0,1,1.;1.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,ow::os0::n::v6::c2,ow::os0::n::v6,ow::os0::n::p3,1,1.;0.,0,1,1.;0.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,ow::os0::n::v1::c0,ow::os0::n::v1,ow::os0::n::p5,1,10.;0.,0,1,0.;1.,0,0,0}
+    18.;0.;12.,
+    0
+   }
+   _vertex v3{
+    _verbinder c0{0,0.;0.;0.;1.,ow::os0::n::v0::c1,ow::os0::n::v0,ow::os0::n::p0,1,10.;0.,0,1,0.;1.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,ow::os0::n::v5::c2,ow::os0::n::v5,ow::os0::n::p4,1,10.;0.,0,1,1.;0.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,ow::os0::n::v2::c0,ow::os0::n::v2,ow::os0::n::p3,1,0.;0.,0,1,0.;0.,0,0,0}
+    18.;0.;11.,
+    0
+   }
+   _vertex v4{
+    _verbinder c0{0,0.;0.;0.;1.,ow::os0::n::v5::c1,ow::os0::n::v5,ow::os0::n::p1,1,0.;0.,0,1,0.;0.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,ow::os0::n::v0::c2,ow::os0::n::v0,ow::os0::n::p4,1,0.;1.,0,1,0.;1.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,ow::os0::n::v7::c0,ow::os0::n::v7,ow::os0::n::p2,1,0.;1.,0,1,1.;0.,0,0,0}
+    8.;1.;11.,
+    0
+   }
+   _vertex v5{
+    _verbinder c0{0,0.;0.;0.;1.,ow::os0::n::v6::c1,ow::os0::n::v6,ow::os0::n::p1,1,10.;0.,0,1,1.;0.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,ow::os0::n::v4::c0,ow::os0::n::v4,ow::os0::n::p4,1,10.;1.,0,1,1.;1.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,ow::os0::n::v3::c1,ow::os0::n::v3,ow::os0::n::p3,1,0.;1.,0,1,0.;1.,0,0,0}
+    18.;1.;11.,
+    0
+   }
+   _vertex v6{
+    _verbinder c0{0,0.;0.;0.;1.,ow::os0::n::v7::c1,ow::os0::n::v7,ow::os0::n::p1,1,10.;1.,0,1,1.;1.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,ow::os0::n::v5::c0,ow::os0::n::v5,ow::os0::n::p3,1,1.;1.,0,1,1.;1.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,ow::os0::n::v2::c1,ow::os0::n::v2,ow::os0::n::p5,1,10.;1.,0,1,1.;1.,0,0,0}
+    18.;1.;12.,
+    0
+   }
+   _vertex v7{
+    _verbinder c0{0,0.;0.;0.;1.,ow::os0::n::v4::c2,ow::os0::n::v4,ow::os0::n::p1,1,0.;1.,0,1,0.;1.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,ow::os0::n::v6::c0,ow::os0::n::v6,ow::os0::n::p5,1,0.;1.,0,1,1.;0.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,ow::os0::n::v1::c1,ow::os0::n::v1,ow::os0::n::p2,1,1.;1.,0,1,1.;1.,0,0,0}
+    8.;1.;12.,
+    0
+   }
+   false,
+   0,
+   true,
+   true,
+   150.,
+   1.5440000295639038,
+   1.
+  }
+  0.;0.;0.,
+  1.;1.;1.,
+  0,
+  0,
+  false
+ }
+ _oxydkugel ok0{
+  2.;2.;3.,
+  0.;0.;0.,
+  0.20000000000000001,
+  0.;0.;0.5;1.,
+  true,
+  5.,
+  5.,
+  true,
+  false,
+  false,
+  false,
+  2.e-002,
+  false
+ }
+ _welt w0{
+  _netz m0{
+   _polygon p0{
+    0.;-0.99999999999999989;0.,
+    0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+    5.;0.;17.5,
+    0.99503719020998915;0.;-9.9503719020998915e-002,
+    -9.9503719020998929e-002;0.;-0.99503719020998926,
+    -0.99999999999999989,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    true,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::w0::m0::v0
+   }
+   _polygon p1{
+    0.;1.;0.,
+    0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+    5.;1.;17.5,
+    -0.99503719020998915;0.;9.9503719020998915e-002,
+    -9.9503719020998915e-002;0.;-0.99503719020998915,
+    -1.,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    true,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::w0::m0::v4
+   }
+   _polygon p2{
+    -1.;0.;0.,
+    0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+    0.;0.5;17.5,
+    0.;-0.70710678118654746;0.70710678118654746,
+    0.;-0.70710678118654757;-0.70710678118654757,
+    -1.,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    true,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::w0::m0::v0
+   }
+   _polygon p3{
+    1.;0.;0.,
+    0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+    10.;0.5;17.5,
+    0.;0.70710678118654746;-0.70710678118654746,
+    0.;-0.70710678118654757;-0.70710678118654757,
+    -1.,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    true,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::w0::m0::v3
+   }
+   _polygon p4{
+    0.;0.;-1.,
+    0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+    5.;0.5;17.,
+    -0.99503719020998915;9.9503719020998915e-002;0.,
+    -9.9503719020998915e-002;-0.99503719020998915;0.,
+    -1.,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    true,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::w0::m0::v0
+   }
+   _polygon p5{
+    0.;0.;0.99999999999999989,
+    0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+    5.;0.5;18.,
+    0.99503719020998915;-9.9503719020998915e-002;0.,
+    -9.9503719020998929e-002;-0.99503719020998926;0.,
+    -0.99999999999999989,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    true,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::w0::m0::v1
+   }
+   _vertex v0{
+    _verbinder c0{0,0.;0.;0.;1.,0,ow::w0::m0::v1,ow::w0::m0::p0,1,0.;0.,0,1,0.;0.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,0,ow::w0::m0::v4,ow::w0::m0::p2,1,0.;0.,0,1,0.;0.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,0,ow::w0::m0::v3,ow::w0::m0::p4,1,0.;0.,0,1,0.;0.,0,0,0}
+    0.;0.;17.,
+    0
+   }
+   _vertex v1{
+    _verbinder c0{0,0.;0.;0.;1.,0,ow::w0::m0::v2,ow::w0::m0::p0,1,0.;1.,0,1,1.;0.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,0,ow::w0::m0::v0,ow::w0::m0::p2,1,1.;0.,0,1,0.;1.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,0,ow::w0::m0::v7,ow::w0::m0::p5,1,0.;0.,0,1,0.;0.,0,0,0}
+    0.;0.;18.,
+    0
+   }
+   _vertex v2{
+    _verbinder c0{0,0.;0.;0.;1.,0,ow::w0::m0::v3,ow::w0::m0::p0,1,10.;1.,0,1,1.;1.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,0,ow::w0::m0::v6,ow::w0::m0::p3,1,1.;0.,0,1,1.;0.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,0,ow::w0::m0::v1,ow::w0::m0::p5,1,10.;0.,0,1,0.;1.,0,0,0}
+    10.;0.;18.,
+    0
+   }
+   _vertex v3{
+    _verbinder c0{0,0.;0.;0.;1.,0,ow::w0::m0::v0,ow::w0::m0::p0,1,10.;0.,0,1,0.;1.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,0,ow::w0::m0::v2,ow::w0::m0::p3,1,0.;0.,0,1,0.;0.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,0,ow::w0::m0::v5,ow::w0::m0::p4,1,10.;0.,0,1,1.;0.,0,0,0}
+    10.;0.;17.,
+    0
+   }
+   _vertex v4{
+    _verbinder c0{0,0.;0.;0.;1.,0,ow::w0::m0::v5,ow::w0::m0::p1,1,0.;0.,0,1,0.;0.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,0,ow::w0::m0::v7,ow::w0::m0::p2,1,0.;1.,0,1,1.;0.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,0,ow::w0::m0::v0,ow::w0::m0::p4,1,0.;1.,0,1,0.;1.,0,0,0}
+    0.;1.;17.,
+    0
+   }
+   _vertex v5{
+    _verbinder c0{0,0.;0.;0.;1.,0,ow::w0::m0::v6,ow::w0::m0::p1,1,10.;0.,0,1,1.;0.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,0,ow::w0::m0::v3,ow::w0::m0::p3,1,0.;1.,0,1,0.;1.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,0,ow::w0::m0::v4,ow::w0::m0::p4,1,10.;1.,0,1,1.;1.,0,0,0}
+    10.;1.;17.,
+    0
+   }
+   _vertex v6{
+    _verbinder c0{0,0.;0.;0.;1.,0,ow::w0::m0::v7,ow::w0::m0::p1,1,10.;1.,0,1,1.;1.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,0,ow::w0::m0::v5,ow::w0::m0::p3,1,1.;1.,0,1,1.;1.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,0,ow::w0::m0::v2,ow::w0::m0::p5,1,10.;1.,0,1,1.;1.,0,0,0}
+    10.;1.;18.,
+    0
+   }
+   _vertex v7{
+    _verbinder c0{0,0.;0.;0.;1.,0,ow::w0::m0::v4,ow::w0::m0::p1,1,0.;1.,0,1,0.;1.,0,0,0}
+    _verbinder c1{0,0.;0.;0.;1.,0,ow::w0::m0::v1,ow::w0::m0::p2,1,1.;1.,0,1,1.;1.,0,0,0}
+    _verbinder c2{0,0.;0.;0.;1.,0,ow::w0::m0::v6,ow::w0::m0::p5,1,0.;1.,0,1,1.;0.,0,0,0}
+    0.;1.;18.,
+    0
+   }
+   false,
+   0,
+   true,
+   true,
+   150.,
+   1.5440000295639038,
+   1.
+  }
+  _netz m1{
+   _polygon p0{
+    0.;1.;0.,
+    0.20000000298023224;0.20000000298023224;0.20000000298023224;0.,
+    29.;0.;16.,
+    -0.70710678118654757;0.;0.70710678118654757,
+    -0.70710678118654757;0.;-0.70710678118654757,
+    -1.0000000000000002,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    true,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::w0::m1::v0
+   }
+   _vertex v0{
+    _verbinder c0{0,0.;0.;0.;1.,0,ow::w0::m1::v1,ow::w0::m1::p0,1,0.;0.,0,0,0,0,0}
+    -21.;0.;-34.,
+    0
+   }
+   _vertex v1{
+    _verbinder c0{0,0.;0.;0.;1.,0,ow::w0::m1::v2,ow::w0::m1::p0,1,100.;0.,0,0,0,0,0}
+    79.;0.;-34.,
+    0
+   }
+   _vertex v2{
+    _verbinder c0{0,0.;0.;0.;1.,0,ow::w0::m1::v3,ow::w0::m1::p0,1,100.;100.,0,0,0,0,0}
+    79.;0.;66.,
+    0
+   }
+   _vertex v3{
+    _verbinder c0{0,0.;0.;0.;1.,0,ow::w0::m1::v0,ow::w0::m1::p0,1,0.;100.,0,0,0,0,0}
+    -21.;0.;66.,
+    0
+   }
+   false,
+   0,
+   true,
+   false,
+   100.,
+   1.544,
+   1.
+  }
+  _netz m2{
+   _polygon p0{
+    0.;1.;0.,
+    1.;1.;1.;1.,
+    0.;-512.;0.,
+    -0.70710678118654746;0.;0.70710678118654746,
+    -0.70710678118654757;0.;-0.70710678118654757,
+    -1.,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    false,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::w0::m2::v0
+   }
+   _polygon p1{
+    0.;-1.;0.,
+    1.;1.;1.;1.,
+    0.;512.;0.,
+    0.70710678118654746;0.;-0.70710678118654746,
+    -0.70710678118654757;0.;-0.70710678118654757,
+    -1.,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    false,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::w0::m2::v4
+   }
+   _polygon p2{
+    1.;0.;0.,
+    1.;1.;1.;1.,
+    -512.;0.;0.,
+    0.;0.70710678118654746;-0.70710678118654746,
+    0.;-0.70710678118654757;-0.70710678118654757,
+    -1.,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    false,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::w0::m2::v0
+   }
+   _polygon p3{
+    -1.;0.;0.,
+    1.;1.;1.;1.,
+    512.;0.;0.,
+    0.;-0.70710678118654746;0.70710678118654746,
+    0.;-0.70710678118654757;-0.70710678118654757,
+    -1.,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    false,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::w0::m2::v1
+   }
+   _polygon p4{
+    0.;0.;1.,
+    1.;1.;1.;1.,
+    0.;0.;-512.,
+    0.70710678118654746;-0.70710678118654746;0.,
+    -0.70710678118654757;-0.70710678118654757;0.,
+    -1.,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    false,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::w0::m2::v0
+   }
+   _polygon p5{
+    0.;0.;-1.,
+    1.;1.;1.;1.,
+    0.;0.;512.,
+    -0.70710678118654746;0.70710678118654746;0.,
+    -0.70710678118654757;-0.70710678118654757;0.,
+    -1.,
+    0,
+    "textur//oxydbodenplatte00.tga",
+    true,
+    "null",
+    false,
+    1.,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    0.5,
+    0.;1.;0.;1.,
+    0,
+    ow::w0::m2::v3
+   }
+   _vertex v0{
+    _verbinder c0{0,1.;0.;0.;1.,0,ow::w0::m2::v1,ow::w0::m2::p0,1,0.;0.,0,0,0,0,0}
+    _verbinder c1{0,1.;0.;0.;1.,0,ow::w0::m2::v4,ow::w0::m2::p4,1,0.;0.,0,0,0,0,0}
+    _verbinder c2{0,1.;0.;0.;1.,0,ow::w0::m2::v3,ow::w0::m2::p2,1,0.;0.,0,0,0,0,0}
+    -512.;-512.;-512.,
+    0
+   }
+   _vertex v1{
+    _verbinder c0{0,1.;0.;0.;1.,0,ow::w0::m2::v2,ow::w0::m2::p0,1,1.;0.,0,0,0,0,0}
+    _verbinder c1{0,1.;0.;0.;1.,0,ow::w0::m2::v0,ow::w0::m2::p4,1,1.;0.,0,0,0,0,0}
+    _verbinder c2{0,1.;0.;0.;1.,0,ow::w0::m2::v7,ow::w0::m2::p3,1,0.;0.,0,0,0,0,0}
+    512.;-512.;-512.,
+    0
+   }
+   _vertex v2{
+    _verbinder c0{0,1.;0.;0.;1.,0,ow::w0::m2::v3,ow::w0::m2::p0,1,1.;1.,0,0,0,0,0}
+    _verbinder c1{0,1.;0.;0.;1.,0,ow::w0::m2::v1,ow::w0::m2::p3,1,1.;0.,0,0,0,0,0}
+    _verbinder c2{0,1.;0.;0.;1.,0,ow::w0::m2::v6,ow::w0::m2::p5,1,1.;0.,0,0,0,0,0}
+    512.;-512.;512.,
+    0
+   }
+   _vertex v3{
+    _verbinder c0{0,1.;0.;0.;1.,0,ow::w0::m2::v0,ow::w0::m2::p0,1,0.;1.,0,0,0,0,0}
+    _verbinder c1{0,1.;0.;0.;1.,0,ow::w0::m2::v2,ow::w0::m2::p5,1,0.;0.,0,0,0,0,0}
+    _verbinder c2{0,1.;0.;0.;1.,0,ow::w0::m2::v5,ow::w0::m2::p2,1,1.;0.,0,0,0,0,0}
+    -512.;-512.;512.,
+    0
+   }
+   _vertex v4{
+    _verbinder c0{0,1.;0.;0.;1.,0,ow::w0::m2::v5,ow::w0::m2::p1,1,0.;0.,0,0,0,0,0}
+    _verbinder c1{0,1.;0.;0.;1.,0,ow::w0::m2::v7,ow::w0::m2::p4,1,0.;1.,0,0,0,0,0}
+    _verbinder c2{0,1.;0.;0.;1.,0,ow::w0::m2::v0,ow::w0::m2::p2,1,0.;1.,0,0,0,0,0}
+    -512.;512.;-512.,
+    0
+   }
+   _vertex v5{
+    _verbinder c0{0,1.;0.;0.;1.,0,ow::w0::m2::v6,ow::w0::m2::p1,1,0.;1.,0,0,0,0,0}
+    _verbinder c1{0,1.;0.;0.;1.,0,ow::w0::m2::v3,ow::w0::m2::p5,1,0.;1.,0,0,0,0,0}
+    _verbinder c2{0,1.;0.;0.;1.,0,ow::w0::m2::v4,ow::w0::m2::p2,1,1.;1.,0,0,0,0,0}
+    -512.;512.;512.,
+    0
+   }
+   _vertex v6{
+    _verbinder c0{0,1.;0.;0.;1.,0,ow::w0::m2::v7,ow::w0::m2::p1,1,1.;1.,0,0,0,0,0}
+    _verbinder c1{0,1.;0.;0.;1.,0,ow::w0::m2::v2,ow::w0::m2::p3,1,1.;1.,0,0,0,0,0}
+    _verbinder c2{0,1.;0.;0.;1.,0,ow::w0::m2::v5,ow::w0::m2::p5,1,1.;1.,0,0,0,0,0}
+    512.;512.;512.,
+    0
+   }
+   _vertex v7{
+    _verbinder c0{0,1.;0.;0.;1.,0,ow::w0::m2::v4,ow::w0::m2::p1,1,1.;0.,0,0,0,0,0}
+    _verbinder c1{0,1.;0.;0.;1.,0,ow::w0::m2::v1,ow::w0::m2::p4,1,1.;1.,0,0,0,0,0}
+    _verbinder c2{0,1.;0.;0.;1.,0,ow::w0::m2::v6,ow::w0::m2::p3,1,0.;1.,0,0,0,0,0}
+    512.;512.;-512.,
+    0
+   }
+   true,
+   0,
+   false,
+   false,
+   100.,
+   1.544,
+   1.
+  }
+  _licht l0{
+   -1.;22.;28.,
+   1.;0.5;0.5,
+   0.5;1.;0.5,
+   10000.,
+   false,
+   false
+  }
+  _gravitation g0{
+   0.;-100.;0.,
+   100.,
+   false
+  }
+  _kamera cam0{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera cam1{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera cam2{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera cam3{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera cam4{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera cam5{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera cam6{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera cam7{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera cam8{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera cam9{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera cama{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera camb{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera camc{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera camd{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera came{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera camf{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  _kamera cam10{
+   0.;0.;0.,
+   0.;-0.99999995609521564;2.9632679055989079e-004,
+   0.5;0.;0.,
+   0.;1.481633952799454e-004;0.49999997804760782,
+   1.,
+   0.5,
+   0.5,
+   1.,
+   0,
+   1.,
+   0,
+   false
+  }
+  false
+ }
+ "",
+ 0.;0.;1.;1.,
+ 0.98999999999999999,
+ false,
+ 2,
+ 1.;0.89999997615814209;0.80000001192092896;1.,
+ 1.e-002,
+ 0.;50.
+}
