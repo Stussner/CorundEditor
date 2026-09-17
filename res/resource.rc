@@ -1,0 +1,21 @@
+#include "../hpp/resource.h"
+
+IDB_SPLASH              BITMAP                  "Res\\splash.bmp" 
+I_PROJEKTOR             ICON                    "Res\\projektor.ico" 
+IDI_ICON1               ICON                    "Res\\bst3d.ico"
+ 
+TBBITMAP_HINTEN         BITMAP                  "Res\\tb_hinten.bmp" 
+TBBITMAP_NORMAL         BITMAP                  "Res\\tb_normal.bmp" 
+TBBITMAP_VORNE          BITMAP                  "Res\\tb_vorne.bmp" 
+TBBITMAP_ALLE           BITMAP                  "Res\\tb_alle.bmp" 
+TBBITMAP_TILES          BITMAP                  "Res\\tb_tiles.bmp" 
+TBBITMAP_TILEGROUPS     BITMAP                  "Res\\tb_tilegruppen.bmp" 
+TBBITMAP_ENTITIES       BITMAP                  "Res\\tb_entities.bmp"
+
+ANWAHLNETZ              BITMAP                  "Res\\anwahlnetz.bmp"
+ANWAHLPOLYGON           BITMAP                  "Res\\anwahlpolygon.bmp"
+ANWAHLKANTE             BITMAP                  "Res\\anwahlkante.bmp"
+ANWAHLVERTEX            BITMAP                  "Res\\anwahlvertex.bmp"
+
+TESTKUGEL               BITMAP                  "Res\\kugel.bmp"
+TESTKUGEL2              BITMAP                  "Res\\kugel2.bmp"
